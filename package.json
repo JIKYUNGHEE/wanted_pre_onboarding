@@ -1,0 +1,22 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "프리온보딩 백엔드 코스 x 프로젝트 온보딩 과제",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JIKYUNGHEE/wanted_pre_onboarding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JIKYUNGHEE/wanted_pre_onboarding/issues"
+  },
+  "homepage": "https://github.com/JIKYUNGHEE/wanted_pre_onboarding#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
